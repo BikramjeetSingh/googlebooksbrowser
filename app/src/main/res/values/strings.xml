@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GoogleBooksBrowser</string>
+    <string name="enter_book_name">Enter Book Name</string>
+    <string name="enter_book_isbn">Enter Book ISBN</string>
+    <string name="title">Title</string>
+    <string name="isbn">ISBN</string>
+    <string name="search_books">Search Books</string>
+    <string name="or">Or</string>
+    <string name="go_to_my_books">Go To My Books</string>
+    <string name="my_books">My Books</string>
+    <string name="search_results">Search Results</string>
+    <string name="no_books_saved">No Books Saved!</string>
+    <string name="search_results_empty">Search Results Empty!</string>
+    <string name="please_enter_a_name_or_isbn">Please enter a book name or ISBN</string>
+    <string name="please_check_internet">Please check your internet connection</string>
+    <string name="save_to_my_books">Save To My Books</string>
+    <string name="delete_all">Delete All</string>
+    <string name="help">Help</string>
+    <string name="how_to_use">How To Use</string>
+    <string name="how_to_use_para_1">This app allows you to search the Google Books database by name or ISBN</string>
+    <string name="how_to_use_para_2">You can view details about the book such as the authors, summary, etc</string>
+    <string name="how_to_use_para_3">You can also save books on your device for later</string>
+</resources>
